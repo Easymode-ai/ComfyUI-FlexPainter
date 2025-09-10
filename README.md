@@ -1,5 +1,7 @@
 # FlexPainter ComfyUI Wrapper
 *WIP*
+Model files: https://huggingface.co/StarYDY/FlexPainter/tree/main
+place dir exact in ComfyUI/models/flexpainter/
 
 [Arxiv 2025] FlexPainter: Flexible and Multi-View Consistent Texture Generation
 
@@ -113,4 +115,5 @@ If you find this work useful for your research, please cite our paper:
   year={2025}
 }
 ```
+
 
