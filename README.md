@@ -1,4 +1,5 @@
-# FlexPainter
+# FlexPainter ComfyUI Wrapper
+*WIP*
 
 [Arxiv 2025] FlexPainter: Flexible and Multi-View Consistent Texture Generation
 
@@ -112,3 +113,4 @@ If you find this work useful for your research, please cite our paper:
   year={2025}
 }
 ```
+
